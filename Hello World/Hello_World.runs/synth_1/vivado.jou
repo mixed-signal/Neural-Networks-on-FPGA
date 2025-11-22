@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 12:34:56 MST 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Fri Nov 21 23:10:30 2025
+# Process ID         : 10616
+# Current directory  : /home/gursimran/Desktop/FPGA/Hello_World/Hello_World.runs/synth_1
+# Command line       : vivado -log oneHz_generator.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source oneHz_generator.tcl
+# Log file           : /home/gursimran/Desktop/FPGA/Hello_World/Hello_World.runs/synth_1/oneHz_generator.vds
+# Journal file       : /home/gursimran/Desktop/FPGA/Hello_World/Hello_World.runs/synth_1/vivado.jou
+# Running On         : gursimran-OMEN-Laptop-15-en0xxx
+# Platform           : Ubuntu
+# Operating System   : Ubuntu 22.04.5 LTS
+# Processor Detail   : AMD Ryzen 7 4800H with Radeon Graphics
+# CPU Frequency      : 1882.411 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 16091 MB
+# Swap memory        : 2147 MB
+# Total Virtual      : 18239 MB
+# Available Virtual  : 10747 MB
+#-----------------------------------------------------------
+source oneHz_generator.tcl -notrace
